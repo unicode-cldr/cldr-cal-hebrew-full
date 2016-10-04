@@ -3,8 +3,8 @@
     "so-DJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "so",
         "territory": "DJ"
@@ -130,7 +130,7 @@
                   "mon": "I",
                   "tue": "T",
                   "wed": "A",
-                  "thu": "K",
+                  "thu": "Kh",
                   "fri": "J",
                   "sat": "S"
                 },
@@ -168,7 +168,7 @@
                   "mon": "I",
                   "tue": "T",
                   "wed": "A",
-                  "thu": "K",
+                  "thu": "Kh",
                   "fri": "J",
                   "sat": "S"
                 },

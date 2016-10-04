@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ast"
       },
@@ -37,7 +37,7 @@
                   "5": "5",
                   "6": "6",
                   "7": "7",
-                  "7-yeartype-leap": "7",
+                  "7-yeartype-leap": "7b",
                   "8": "8",
                   "9": "9",
                   "10": "10",
@@ -87,7 +87,7 @@
                   "5": "5",
                   "6": "6",
                   "7": "7",
-                  "7-yeartype-leap": "7",
+                  "7-yeartype-leap": "7bis",
                   "8": "8",
                   "9": "9",
                   "10": "10",
@@ -245,7 +245,7 @@
                 },
                 "wide": {
                   "am": "de la mañana",
-                  "pm": "de la tardi"
+                  "pm": "de la tarde"
                 }
               },
               "stand-alone": {
@@ -259,7 +259,7 @@
                 },
                 "wide": {
                   "am": "mañana",
-                  "pm": "tardi"
+                  "pm": "tarde"
                 }
               }
             },
